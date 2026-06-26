@@ -1,0 +1,3 @@
+rdaguiar.webp=rdasoftware.com.br
+azienda.webp=null
+suzytur=null
