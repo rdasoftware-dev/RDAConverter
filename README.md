@@ -50,8 +50,6 @@ Repositório
 
 Este repositório contém a documentação pública do projeto, informações sobre sua evolução e demais materiais destinados aos usuários.
 
-O código-fonte permanece em um repositório privado.
-
 ---
 
 Documentação
